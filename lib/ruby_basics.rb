@@ -6,8 +6,8 @@ def assign_variable(name)
   puts name
 end
 
-def argue
-  puts "I'm right and you are wrong!"
+def argue(1)
+  return "I'm right and you are wrong!"
 end
 
 def greeting
