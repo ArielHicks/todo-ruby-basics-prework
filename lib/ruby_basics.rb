@@ -21,6 +21,6 @@ def last_evaluated_value
  return "expert"
 end
 
-def pizza_party(pepperoni)
+def pizza_party(pepperoni = cheese)
   return "pepperoni"
 end
